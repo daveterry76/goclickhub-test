@@ -2,9 +2,9 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 import PageWrapper from "../components/PageWrapper";
-import okayPicture from "/okay-picture.svg";
-import notOkayPicture from "/not-okay-picture.svg";
-import requirementsPicture from "/requirements-picture.svg";
+import okayPicture from "/okay-picture.webp";
+import notOkayPicture from "/not-okay-picture.webp";
+import requirementsPicture from "/requirements-picture.webp";
 
 const HowItWorksPage = () => {
   const navigate = useNavigate();

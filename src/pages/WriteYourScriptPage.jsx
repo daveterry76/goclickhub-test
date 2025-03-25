@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import PageWrapper from "../components/PageWrapper";
 import Modal from "../components/Modal";
 
-import manExplainingPicture from "/man-explaining-picture.svg";
+import manExplainingPicture from "/man-explaining-picture.webp";
 import textCircleIcon from "/text-circle.svg";
 import micIcon from "/mic-icon.svg";
 import micWhiteIcon from "/mic-white-icon.svg";

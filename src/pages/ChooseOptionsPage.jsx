@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import Switch from "react-switch";
 
 import PageWrapper from "../components/PageWrapper";
-import manExplainingPicture from "/man-explaining-picture.svg";
+import manExplainingPicture from "/man-explaining-picture.webp";
 import videoReplayIcon from "/video-replay.svg";
 import smartPhoneLandscapeIcon from "/smart-phone-landscape.svg";
 import smartPhonePortraitIcon from "/smart-phone-portrait.svg";
