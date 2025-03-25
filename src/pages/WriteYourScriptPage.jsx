@@ -40,8 +40,8 @@ const WriteYourScriptPage = () => {
           </div>
 
           <div className="flex justify-center items-center gap-4 h-full">
-            <div className="rounded-lg">
-              <img src={manExplainingPicture} />
+            <div className="rounded-lg self-start">
+              <img src={manExplainingPicture} className="w-[300px] h-[300px]" />
             </div>
 
             <div className="bg-[#140926] flex flex-col gap-3 rounded-lg p-5 h-full w-[300px]">

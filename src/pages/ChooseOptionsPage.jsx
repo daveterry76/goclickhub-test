@@ -48,7 +48,7 @@ const ChooseOptionsPage = () => {
 
           <div className="flex justify-center items-center gap-4 h-full mt-5">
             <div className="rounded-lg self-start">
-              <img src={manExplainingPicture} />
+              <img src={manExplainingPicture} className="w-[300px] h-[300px]" />
             </div>
 
             <div className="flex flex-col justify-center items-center gap-2 w-[320px]">
